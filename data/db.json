@@ -1,0 +1,47 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Gaming PC Pro v1",
+      "price": 12500000,
+      "category": "kompyuter",
+      "brand": "MSI",
+      "description": "Intel Core i7, RTX 4060, 16GB RAM, 1TB SSD",
+      "image": ""
+    },
+    {
+      "id": "2",
+      "name": "Gaming Laptop ASUS ROG",
+      "price": 15000000,
+      "category": "noutbuk",
+      "brand": "ASUS",
+      "description": "Ryzen 9, RTX 4070, 32GB RAM, 1TB SSD",
+      "image": ""
+    },
+    {
+      "id": "3",
+      "name": "Razer BlackWidow",
+      "price": 1500000,
+      "category": "aksessuar",
+      "brand": "Razer",
+      "description": "Mechanical Keyboard RGB",
+      "image": ""
+    },
+    {
+      "id": "1790332102730",
+      "name": "Lenovo 712",
+      "price": 1000,
+      "category": "noutbuk",
+      "description": "as",
+      "image": ""
+    }
+  ],
+  "orders": [],
+  "users": [
+    {
+      "login": "ADA",
+      "password": "ASDASASDAS",
+      "createdAt": "2026-09-25T17:51:14.366Z"
+    }
+  ]
+}
